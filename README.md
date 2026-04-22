@@ -39,7 +39,7 @@
 ### 📂 Featured Projects
 - 🏆 **[Warrior vs Wizard](https://github.com/LongNguyen2910/Warrior-vs-Wizard)**: A 2D local fighting game developed with Java Swing featuring a custom game loop, character-specific combat mechanics, and comprehensive state management.
 - ⚡ **[Hotel Management](https://github.com/LongNguyen2910/Hotel-Management)**: A comprehensive hotel administration platform built with .NET 8 and Oracle Database 19c, featuring ASP.NET Core Identity for secure role-based access control and Entity Framework Core for data persistence.
-- 🛠 **[Project Name 3](https://github.com/LongNguyen2910/warehouse_management_system)**: A robust RESTful API backend built with Flask and SQL Server, featuring JWT-secured RBAC, automated inventory logistics, and comprehensive Swagger documentation for seamless frontend integration.
+- 🛠 **[Ware House Management](https://github.com/LongNguyen2910/warehouse_management_system)**: A robust RESTful API backend built with Flask and SQL Server, featuring JWT-secured RBAC, automated inventory logistics, and comprehensive Swagger documentation for seamless frontend integration.
 
 ---
 
